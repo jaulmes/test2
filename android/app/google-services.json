@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264840747559",
+    "project_id": "tasktrack-fe87c",
+    "storage_bucket": "tasktrack-fe87c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264840747559:android:27d1754608d2bc6a288c02",
+        "android_client_info": {
+          "package_name": "com.tasktrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiS5mxgpgShTYRhdTeiFXR6rTbnACcSlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
